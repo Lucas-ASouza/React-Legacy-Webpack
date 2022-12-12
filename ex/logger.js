@@ -2,4 +2,4 @@ function info (text) {
     console.log(`INFO: ${text}`)
 }
 
-module.exports = {info: info}
+module.exports = { info }
